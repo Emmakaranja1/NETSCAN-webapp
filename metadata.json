@@ -1,0 +1,5 @@
+{
+  "name": "NetScan - Data Centre Ops Dashboard",
+  "description": "A professional terminal-style network diagnostic tool for IP/Domain analysis, ISP tracking, and geographic mapping. Designed for Data Centre Operations and infrastructure monitoring.",
+  "requestFramePermissions": []
+}
